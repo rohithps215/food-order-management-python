@@ -1,0 +1,25 @@
+DAILY FOOD DELIVERY SALES REPORT
+========================================
+Date: 2026-10-27
+Total orders received: 12
+Successfully processed orders: 10
+Invalid or empty orders: 2
+Total revenue: Rs. 4300.00
+
+HIGHEST-VALUE ORDER
+Order ID: 4
+Customer: David
+Order Value: Rs. 520.00
+
+ORDER DETAILS
+----------------------------------------
+Order 1 | Customer: Alex | Total: Rs. 280.00
+Order 2 | Customer: John | Total: Rs. 450.00
+Order 3 | Customer: Emma | Total: Rs. 340.00
+Order 4 | Customer: David | Total: Rs. 520.00
+Order 5 | Customer: Sophia | Total: Rs. 440.00
+Order 6 | Customer: Michael | Total: Rs. 490.00
+Order 7 | Customer: Olivia | Total: Rs. 460.00
+Order 8 | Customer: James | Total: Rs. 490.00
+Order 9 | Customer: Isabella | Total: Rs. 340.00
+Order 10 | Customer: Daniel | Total: Rs. 490.00
