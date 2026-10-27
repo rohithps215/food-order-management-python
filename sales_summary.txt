@@ -1,0 +1,16 @@
+DAILY FOOD DELIVERY SALES SUMMARY
+========================================
+Date: 2026-10-27
+Total orders received: 12
+Successfully processed orders: 10
+Invalid orders skipped: 2
+Total revenue: $458.14
+
+HIGHEST-VALUE ORDER
+Order ID: 1008
+Customer: Hana
+Final total: $62.05
+
+INVALID ORDERS
+- Order 1011: empty order: no items were supplied
+- Order 1012: invalid menu item: 'Dragon Roll'

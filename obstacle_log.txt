@@ -1,0 +1,24 @@
+FOOD DELIVERY ORDER PROCESSOR - OBSTACLE LOG
+=============================================
+
+1. Invalid Menu Items
+   Problem: An order may contain an item that is not in the menu.
+   Solution: Check each item against the menu and skip invalid orders.
+
+2. Empty Orders
+   Problem: An order may not contain any items.
+   Solution: Check whether the items list is empty before processing.
+
+3. Invalid Quantities
+   Problem: Zero, negative, or non-integer quantities may occur.
+   Solution: Validate quantities before calculating the subtotal.
+
+4. Discount Calculation
+   Problem: Discounts must be applied only when the subtotal
+   reaches the specified threshold.
+   Solution: Use a separate function to calculate the discount.
+
+5. Sales Report
+   Problem: Processed data and daily sales details must be saved.
+   Solution: Write the order data to JSON files and the sales
+   summary to a text file.

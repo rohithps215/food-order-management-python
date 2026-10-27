@@ -1,0 +1,137 @@
+[
+    {
+        "order_id": 1,
+        "customer": "Alex",
+        "items": [
+            {
+                "name": "Burger",
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "order_id": 2,
+        "customer": "John",
+        "items": [
+            {
+                "name": "Pizza",
+                "quantity": 1
+            },
+            {
+                "name": "French Fries",
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "order_id": 3,
+        "customer": "Emma",
+        "items": [
+            {
+                "name": "Sandwich",
+                "quantity": 3
+            }
+        ]
+    },
+    {
+        "order_id": 4,
+        "customer": "David",
+        "items": [
+            {
+                "name": "Pasta",
+                "quantity": 2
+            },
+            {
+                "name": "Burger",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "order_id": 5,
+        "customer": "Sophia",
+        "items": [
+            {
+                "name": "Biryani",
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "order_id": 6,
+        "customer": "Michael",
+        "items": [
+            {
+                "name": "Shawarma",
+                "quantity": 3
+            }
+        ]
+    },
+    {
+        "order_id": 7,
+        "customer": "Olivia",
+        "items": [
+            {
+                "name": "Fried Rice",
+                "quantity": 2
+            },
+            {
+                "name": "Sandwich",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "order_id": 8,
+        "customer": "James",
+        "items": [
+            {
+                "name": "Pizza",
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "order_id": 9,
+        "customer": "Isabella",
+        "items": [
+            {
+                "name": "Burger",
+                "quantity": 1
+            },
+            {
+                "name": "Pasta",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "order_id": 10,
+        "customer": "Daniel",
+        "items": [
+            {
+                "name": "Biryani",
+                "quantity": 1
+            },
+            {
+                "name": "Shawarma",
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "order_id": 11,
+        "customer": "Ryan",
+        "items": []
+    },
+    {
+        "order_id": 12,
+        "customer": "Mia",
+        "items": [
+            {
+                "name": "Tacos",
+                "quantity": 2
+            }
+        ]
+    }
+]
